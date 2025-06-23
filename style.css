@@ -1,0 +1,49 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.label{
+    color: rgb(43, 150, 185);
+}
+.logo{
+    width: 5rem;
+    height: 5rem;
+}
+ul{
+    list-style: none;
+}
+span{
+    color: rgb(43, 150, 185);
+    font-weight: 700;
+}
+
+.header{
+    text-align: center;
+    background-color: aliceblue;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:2rem;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+.desc{
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+    border: none;
+    color: white;
+    color: rgb(43, 150, 185);
+    width: 10rem;
+    font-size: larger;
+}
+
+.list{
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
