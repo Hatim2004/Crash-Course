@@ -1,4 +1,4 @@
-what I learn from the course 
+<pre>what I learn from the course 
 -Html tags like title body head h1-h6 paragraphs tag p
 -Linking css inline and external
 -Editing color font and size widt and height
@@ -10,3 +10,4 @@ what I learn from the course
 -Using the inspect tool in the browser
 -Margin and padding
 -CSS reset
+</pre>
